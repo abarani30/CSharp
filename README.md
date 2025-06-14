@@ -1,2 +1,2 @@
 # CSharp
-A repo for all [CSharp](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) tasks
+A repo for all tasks
